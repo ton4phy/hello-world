@@ -1,1 +1,6 @@
-The study of syntax and basic constructs of programming languages. PHP/JavaScript/Phyton
+## Hello, World!!
+
+This repository stores the source code that I used when learning the basics of language syntax.
+* JavaScript
+* PHP
+* Python
